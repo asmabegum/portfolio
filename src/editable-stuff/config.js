@@ -133,7 +133,7 @@ const experiences = {
       date: 'August 2014 – July 2021',
     },
   ],
-  imageSize: 200
+  imgSize: 200
 }
 
 // Blog SECTION
