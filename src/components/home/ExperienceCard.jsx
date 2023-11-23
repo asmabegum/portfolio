@@ -4,7 +4,7 @@ import {
   Col,
 } from "react-bootstrap";
 
-const ExperienceCard = ({ data }) => {
+const ExperienceCard = ({ data,imgSize }) => {
   return (
     <Col lg="6">
       <div className="pb-5 text-center">
