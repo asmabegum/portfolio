@@ -132,7 +132,11 @@ const experiences = {
       companylogo: require('../assets/img/sanmina.png'),
       date: 'August 2014 – July 2021',
     },
-  ]
+  ],
+  imageSize: {
+    width:"300",
+    height:"200"
+  }
 }
 
 // Blog SECTION
