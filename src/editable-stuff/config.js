@@ -117,7 +117,7 @@ const getInTouch = {
     "I'm currently looking for full-time opportunities in Data Analytics!! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "mailasmabegum@gmail.com",
 };
-
+//Experience
 const experiences = {
   show: true,
   heading: "Experiences",
@@ -133,10 +133,7 @@ const experiences = {
       date: 'August 2014 – July 2021',
     },
   ],
-  imageSize: {
-    width:"300",
-    height:"200"
-  }
+  imageSize: 200
 }
 
 // Blog SECTION
