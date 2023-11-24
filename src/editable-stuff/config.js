@@ -126,14 +126,16 @@ const experiences = {
       role: 'Senior Data Scientist',// Here Add Company Name
       companylogo: require('../assets/img/Kone_Logo_2023.png'),
       date: 'July 2021 – Present',
+      imgSize: 200
     },
     {
       role: 'Business System Analyst',
       companylogo: require('../assets/img/sanmina.png'),
       date: 'August 2014 – July 2021',
+      imgSize: 200
     },
   ],
-  imgSize: 200
+  
 }
 
 // Blog SECTION
