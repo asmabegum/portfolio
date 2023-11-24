@@ -20,8 +20,7 @@ import Skills from "./components/home/Skills";
 // import BlogPost from "./components/blog/BlogPost";
 import GetInTouch from "./components/home/GetInTouch.jsx";
 import Leadership from "./components/home/Leadership.jsx";
-
-import Experience from "./components/home/Experience";
+import Experience from "./components/home/Experience.jsx";
 
 const Home = React.forwardRef((props, ref) => {
   return (

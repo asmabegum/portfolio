@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/asma.png"),
   imageSize: 375,
   message:
-    "My name is Asma Begum, holds Masters in Statistics and experienced in Data Analytics field for 9 years. I did projects in Dashboard creation, Data Pipeline and Architechture in cloud, Model building in Machine Learning and Artificial Intelligence.",
+    "My name is Asma Begum, holds Masters degree in Statistics and experienced in Data Analytics field for 9 years. I did projects in Dashboard creation, Data Pipeline and Architechture in cloud, Model building in Machine Learning and Artificial Intelligence.",
     resume: require("../editable-stuff/Resume_AsmaBegum_mac.pdf"),
 };
 
@@ -120,7 +120,7 @@ const getInTouch = {
 //Experience
 const experiences = {
   show: true,
-  heading: "Experiences",
+  heading: "Experience",
   data: [
     {
       role: 'Senior Data Scientist',// Here Add Company Name
